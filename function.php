@@ -50,7 +50,10 @@ function all($table){
     $sql="select * from $table";
     $rows=$pdo->query($sql)->fetchAll(PDO::FETCH_ASSOC);
     return $rows;
+<<<<<<< HEAD
     
+=======
+>>>>>>> 6534ec56a4c637ef2eb9a36970ee3959572f5729
 }
 
 ?>
