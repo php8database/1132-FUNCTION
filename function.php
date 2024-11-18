@@ -188,4 +188,4 @@ function dd($array){
 //
 //update('member',['email'=>'19@gmail.com'],['acc'=>'19','pw'=>'19']);
 
-?>
+?> 
